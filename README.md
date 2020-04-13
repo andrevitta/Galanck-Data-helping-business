@@ -6,9 +6,13 @@
 
 Galanck is  Startup that manufacture a connected backpack that combines GPS navigation, safety, ergonomy and style, my project was to help them on their challanges using Data Analytics tools
 
+[Full Project presentation](./Galnck Project.pdf)
+
 # Company Presentation
 <img src="./images/galanck2.PNG" alt="overview" width="700"/>
 
 <img src="./images/how_works.PNG" alt="overview" width="700"/>
 
 <img src="./images/overall.PNG" alt="overview" width="700"/>
+
+<img src="./images/summary.PNG" alt="overview" width="700"/>
