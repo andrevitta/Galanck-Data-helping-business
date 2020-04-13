@@ -9,8 +9,6 @@ Galanck is  Startup that manufacture a connected backpack that combines GPS navi
 # Company Presentation
 <img src="./images/galanck2.PNG" alt="overview" width="700"/>
 
-# Product Overview
 <img src="./images/how_works.PNG" alt="overview" width="700"/>
 
-# Data Available
 <img src="./images/overall.PNG" alt="overview" width="700"/>
